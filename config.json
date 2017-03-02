@@ -1,8 +1,8 @@
 {
-	"mail_reception": "pierre.charrat@gmail.com",
-	"mail_envoie": "tagrossedaronne@gmail.com",
-	"mdp_envoie": "azerty123456789",
+	"mail_reception": "sendee",
+	"mail_envoie": "sender",
+	"mdp_envoie": "sender password",
 	"site": [
-		"http://www.click-clack.fr"
+		"http://mysite.com"
 	]
 }
